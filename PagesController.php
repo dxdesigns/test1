@@ -1,6 +1,4 @@
-<?php 
+this is a pagescontroller
 
 
-echo "Hello world 2";
-
-?> 
+MODIFIED THIS
