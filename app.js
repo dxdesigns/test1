@@ -1,3 +1,8 @@
 $(document).ready(function(){
-    console.log("Hello world 2");
+    console.log('file');
+
+    console.log("file2");
 })
+
+/* NEW LINE 1 */
+/* NEW LINE 2 */
