@@ -1,4 +1,4 @@
 $(document).ready(function(){
-    console.log("Welcome app.js");
+    console.log("Hello world 2");
 }) 
  

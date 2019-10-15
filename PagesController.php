@@ -1,4 +1,4 @@
-<?php 
+this is a pagescontroller
 
-    echo "Welcome PagesController.php";
-?>
+
+MODIFIED THIS
