@@ -1,7 +1,6 @@
-this is a pagescontroller
+<?php 
 
 
-MODIFIED THIS
+echo "Hello world 2";
 
-/* NEW LINE 1 */
-/* NEW LINE 2 */
+?>
