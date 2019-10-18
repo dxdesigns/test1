@@ -2,4 +2,8 @@ this is a pagescontroller
 
 
 MODIFIED THIS
-<!-- MARKER -->
+<!--
+
+NEW MARKER HAS BEEN ADDED
+
+-->
