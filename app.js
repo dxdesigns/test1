@@ -2,4 +2,8 @@ $(document).ready(function(){
     console.log("Hello world 2");
 }) 
  
-<!-- MARKER -->
+/*
+
+NEW MARKER HAS BEEN ADDED MODIFIED
+
+*/
