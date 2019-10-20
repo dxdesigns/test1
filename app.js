@@ -4,6 +4,6 @@ $(document).ready(function(){
  
 /*
 
-NEW MARKER HAS BEEN ADDED
+NEW MARKER HAS BEEN ADDED MODIFIED
 
 */
