@@ -1,9 +1,11 @@
 <?php 
 
-
-	public function leaderboard(){
-		return view('leaderboard')->with([
-			'data' => User::all()
-		]);
-	}
+/**
+ * Leaderboards
+ */
+public function leaderboard($data){
+	return view('leaderboard')->with([
+		'data' => User::all()
+	]);
+}
 ?>
