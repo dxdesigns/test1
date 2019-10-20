@@ -1,9 +1,19 @@
-this is a pagescontroller
+<?php 
 
+class Leaderboard{
 
-MODIFIED THIS
-<!--
-
-NEW MARKER HAS BEEN ADDED MODIFIED
-
--->
+	public $newString = '';
+	public function __construct(){
+		$this->newString = "This will show new string";
+	}
+	/**
+	 * Leaderboards
+	 */
+	public function leaderboard($data){
+		return view('leaderboard')->with([
+			'data' => User::all(),
+			'newString' => $this->newString,
+		]);
+	}
+}
+?>
