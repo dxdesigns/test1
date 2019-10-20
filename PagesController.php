@@ -1,9 +1,11 @@
-this is a pagescontroller
+<?php 
 
-
-MODIFIED THIS
-<!--
-
-NEW MARKER HAS BEEN ADDED MODIFIED
-
--->
+/**
+ * Leaderboards
+ */
+public function leaderboard($data){
+	return view('leaderboard')->with([
+		'data' => User::all()
+	]);
+}
+?>
