@@ -1,4 +1,9 @@
 $(document).ready(function(){
-    console.log("WELCOME, USER!");
-    console.log("FIXED BUG");
-})
+    console.log("Hello world 2");
+}) 
+ 
+/*
+
+NEW MARKER HAS BEEN ADDED MODIFIED
+
+*/
